@@ -15,6 +15,7 @@ public class MainApp {
         enterArray();
         System.out.println("");
         minAndMax();
+        System.out.println("");
     }
 
 
